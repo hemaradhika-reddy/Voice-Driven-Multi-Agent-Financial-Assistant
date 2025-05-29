@@ -55,8 +55,8 @@ pip install -r requirements.txt
 
 
 ### 3. Run the Streamlit App
-Launch the Streamlit application:
-streamlit run streamlit_app/app.py
+Launch the Streamlit application:(After Deployment)
+https://finance-assistant-nfg8ym2pxjfta2oaxafjwd.streamlit.app/
 
 
 
