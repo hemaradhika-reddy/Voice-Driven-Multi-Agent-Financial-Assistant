@@ -48,15 +48,13 @@ At 8 AM daily, the assistant provides a verbal and textual summary that includes
 git clone https://github.com/yourusername/finance-assistant.git
 cd finance-assistant
 
-2. Install Dependencies
+### 2. Install Dependencies
+
 Install the required Python packages using the requirements.txt file:
 pip install -r requirements.txt
 
-3. Add OpenAI Key
-Create a .env file in the project root and add your OpenAI API key:
-OPENAI_API_KEY=your-key-here
 
-4. Run the Streamlit App
+### 3. Run the Streamlit App
 Launch the Streamlit application:
 streamlit run streamlit_app/app.py
 
