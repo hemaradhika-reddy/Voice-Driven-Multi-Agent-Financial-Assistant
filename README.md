@@ -9,7 +9,7 @@ An AI-powered, modular system for delivering market briefs via text and voice us
 
 ## 📦 Architecture
 
-![Architecture Diagram](https://i.imgur.com/l7d8pFG.png) <!-- Use a placeholder or draw.io export -->
+![Architecture Diagram](![Alt text](image_path_or_url)) <!-- Use a placeholder or draw.io export -->
 
 ### Agent Roles
 - **API Agent**: Gets market data using yfinance.
