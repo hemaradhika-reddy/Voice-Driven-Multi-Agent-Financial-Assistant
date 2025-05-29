@@ -24,6 +24,8 @@ An AI-powered, modular system for delivering market briefs via text and voice us
 - Upload voice or type a query.
 - View simulated API/scraping results.
 - Get generated summary + audio playback.
+- This prototype uses Streamlit as a lightweight orchestration layer to coordinate agents and simulate end-to-end flow. In a production setup, this would be handled by an asynchronous FastAPI service for scalability and modularity.
+
 
 ---
 
