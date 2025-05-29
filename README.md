@@ -56,7 +56,7 @@ pip install -r requirements.txt
 
 ### 3. Run the Streamlit App
 Launch the Streamlit application:(After Deployment)
-https://finance-assistant-nfg8ym2pxjfta2oaxafjwd.streamlit.app/
+https://voice-driven-multi-agent-financial-assistant-ehqpnpt4f5uhdqodc.streamlit.app/
 
 
 
