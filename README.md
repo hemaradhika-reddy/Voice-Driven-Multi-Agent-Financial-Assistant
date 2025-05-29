@@ -8,7 +8,7 @@ An AI-powered, modular system for delivering market briefs via text and voice us
 ---
 
 ## 📦 Architecture
-(https://github.com/hemaradhika-reddy/finance-assistant/blob/main/Architecture.png)<!-- Use a placeholder or draw.io export -->
+![Alt text](https://github.com/hemaradhika-reddy/finance-assistant/blob/main/Architecture.png)<!-- Use a placeholder or draw.io export -->
 
 ### Agent Roles
 - **API Agent**: Gets market data using yfinance.
