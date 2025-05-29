@@ -1,0 +1,10 @@
+streamlit
+openai
+pyttsx3
+pydub
+faiss-cpu
+langchain
+sentence-transformers
+whisper
+beautifulsoup4
+requests
