@@ -3,9 +3,10 @@
 An AI-powered, modular system for delivering market briefs via text and voice using microservices.
 
 ## 🎯 Use Case
-> “What’s our risk exposure in Asia tech stocks today, and highlight any earnings surprises?”
-
----
+At 8 AM daily, the assistant provides a verbal and textual summary that includes:
+- Risk exposure % in Asia tech stocks
+- Recent earnings surprises (beats/misses)
+- Sentiment or contextual notes (e.g., macroeconomic factors)
 
 ## 📦 Architecture
 ![Alt text](https://github.com/hemaradhika-reddy/finance-assistant/blob/main/Architecture.png)<!-- Use a placeholder or draw.io export -->
@@ -38,3 +39,13 @@ An AI-powered, modular system for delivering market briefs via text and voice us
 | Retriever | FAISS + SentenceTransformers |
 | LLM | OpenAI GPT-3.5 via LangChain |
 | Voice | Whisper, pyttsx3 |
+
+## 🚀 Setup Instructions
+
+### 1. Clone the Repo
+
+```bash
+git clone https://github.com/yourusername/finance-agent.git
+cd finance-agent ```bash
+
+2. Install Dependencies
