@@ -45,7 +45,7 @@ At 8 AM daily, the assistant provides a verbal and textual summary that includes
 ### 1. Clone the Repo
 
 
-git clone https://github.com/yourusername/finance-assistant.git
+git clone https://github.com/hemaradhika-reddy/Voice-Driven-Multi-Agent-Financial-Assistant
 cd finance-assistant
 
 ### 2. Install Dependencies
