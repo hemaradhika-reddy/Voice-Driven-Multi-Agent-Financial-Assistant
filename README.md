@@ -46,6 +46,8 @@ At 8 AM daily, the assistant provides a verbal and textual summary that includes
 
 ```bash
 git clone https://github.com/yourusername/finance-agent.git
-cd finance-agent ```bash
+cd finance-agent ```
 
-2. Install Dependencies
+### 2. Install Dependencies
+
+
